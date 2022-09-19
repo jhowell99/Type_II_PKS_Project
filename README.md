@@ -14,7 +14,7 @@
   + To visualise colours on one of the proteins, run @color_def.txt in the PyMol command line
   + Open one of the three AlphaFold models and run the corresponding _clade_color.txt in the same way
   + consurf_conservation_analysis.py contains the script to produce these text files
-5. model_comparison.pse --> get correct AF in there
+5. model_comparison.pse
   + A PyMol session containing all the AlphaFold models aligned and their CLRs shown
 6. MSAs
   + The MSAs generated in fasta format
