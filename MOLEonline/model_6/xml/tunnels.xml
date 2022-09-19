@@ -1,0 +1,457 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tunnels Version="2.5.18.1.14" FoundOrigin="1" Timing="963">
+  <Tunnel Id="1" Cavity="1" Auto="0">
+    <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.67" Hydropathy="1.34" LogP="1.39" LogD="1.39" LogS="-0.87" Polarity="1.26" Mutability="70" />
+    <Profile>
+      <Node Radius="1.497" FreeRadius="2.370" BRadius="3.423" T="0.00000" Distance="0.000" X="-7.560" Y="7.648" Z="5.440" />
+      <Node Radius="1.584" FreeRadius="2.488" BRadius="3.510" T="0.00380" Distance="0.191" X="-7.692" Y="7.521" Z="5.497" />
+      <Node Radius="1.673" FreeRadius="2.604" BRadius="3.599" T="0.00760" Distance="0.381" X="-7.822" Y="7.396" Z="5.553" />
+      <Node Radius="1.766" FreeRadius="2.716" BRadius="3.693" T="0.01141" Distance="0.566" X="-7.948" Y="7.272" Z="5.610" />
+      <Node Radius="1.864" FreeRadius="2.819" BRadius="3.790" T="0.01521" Distance="0.744" X="-8.067" Y="7.151" Z="5.665" />
+      <Node Radius="1.961" FreeRadius="2.902" BRadius="3.887" T="0.01901" Distance="0.915" X="-8.177" Y="7.033" Z="5.721" />
+      <Node Radius="2.055" FreeRadius="2.957" BRadius="3.980" T="0.02281" Distance="1.075" X="-8.275" Y="6.919" Z="5.776" />
+      <Node Radius="2.142" FreeRadius="2.986" BRadius="4.066" T="0.02662" Distance="1.224" X="-8.361" Y="6.810" Z="5.830" />
+      <Node Radius="2.220" FreeRadius="3.000" BRadius="4.143" T="0.03042" Distance="1.360" X="-8.431" Y="6.707" Z="5.883" />
+      <Node Radius="2.286" FreeRadius="3.008" BRadius="4.209" T="0.03422" Distance="1.481" X="-8.483" Y="6.611" Z="5.936" />
+      <Node Radius="2.340" FreeRadius="3.008" BRadius="4.264" T="0.03802" Distance="1.590" X="-8.516" Y="6.521" Z="5.987" />
+      <Node Radius="2.383" FreeRadius="2.997" BRadius="4.305" T="0.04183" Distance="1.687" X="-8.532" Y="6.439" Z="6.037" />
+      <Node Radius="2.415" FreeRadius="2.976" BRadius="4.336" T="0.04563" Distance="1.776" X="-8.535" Y="6.363" Z="6.084" />
+      <Node Radius="2.442" FreeRadius="2.949" BRadius="4.359" T="0.04943" Distance="1.858" X="-8.528" Y="6.293" Z="6.127" />
+      <Node Radius="2.464" FreeRadius="2.920" BRadius="4.378" T="0.05323" Distance="1.934" X="-8.516" Y="6.230" Z="6.165" />
+      <Node Radius="2.486" FreeRadius="2.891" BRadius="4.397" T="0.05703" Distance="2.002" X="-8.503" Y="6.171" Z="6.197" />
+      <Node Radius="2.507" FreeRadius="2.867" BRadius="4.416" T="0.06084" Distance="2.062" X="-8.491" Y="6.118" Z="6.223" />
+      <Node Radius="2.530" FreeRadius="2.849" BRadius="4.439" T="0.06464" Distance="2.114" X="-8.485" Y="6.069" Z="6.240" />
+      <Node Radius="2.561" FreeRadius="2.842" BRadius="4.471" T="0.06844" Distance="2.160" X="-8.489" Y="6.025" Z="6.249" />
+      <Node Radius="2.607" FreeRadius="2.848" BRadius="4.516" T="0.07224" Distance="2.203" X="-8.504" Y="5.984" Z="6.249" />
+      <Node Radius="2.662" FreeRadius="2.865" BRadius="4.569" T="0.07605" Distance="2.249" X="-8.530" Y="5.947" Z="6.241" />
+      <Node Radius="2.708" FreeRadius="2.887" BRadius="4.613" T="0.07985" Distance="2.297" X="-8.562" Y="5.913" Z="6.226" />
+      <Node Radius="2.725" FreeRadius="2.906" BRadius="4.629" T="0.08365" Distance="2.346" X="-8.595" Y="5.884" Z="6.208" />
+      <Node Radius="2.721" FreeRadius="2.920" BRadius="4.625" T="0.08745" Distance="2.391" X="-8.625" Y="5.858" Z="6.188" />
+      <Node Radius="2.717" FreeRadius="2.927" BRadius="4.621" T="0.09125" Distance="2.429" X="-8.649" Y="5.835" Z="6.167" />
+      <Node Radius="2.726" FreeRadius="2.927" BRadius="4.631" T="0.09506" Distance="2.458" X="-8.662" Y="5.817" Z="6.149" />
+      <Node Radius="2.740" FreeRadius="2.919" BRadius="4.644" T="0.09886" Distance="2.479" X="-8.660" Y="5.801" Z="6.136" />
+      <Node Radius="2.744" FreeRadius="2.902" BRadius="4.647" T="0.10266" Distance="2.504" X="-8.638" Y="5.790" Z="6.128" />
+      <Node Radius="2.732" FreeRadius="2.873" BRadius="4.635" T="0.10646" Distance="2.549" X="-8.594" Y="5.782" Z="6.129" />
+      <Node Radius="2.707" FreeRadius="2.829" BRadius="4.610" T="0.11027" Distance="2.608" X="-8.536" Y="5.777" Z="6.134" />
+      <Node Radius="2.675" FreeRadius="2.769" BRadius="4.580" T="0.11407" Distance="2.670" X="-8.474" Y="5.774" Z="6.139" />
+      <Node Radius="2.642" FreeRadius="2.713" BRadius="4.549" T="0.11787" Distance="2.722" X="-8.422" Y="5.773" Z="6.139" />
+      <Node Radius="2.616" FreeRadius="2.690" BRadius="4.525" T="0.12167" Distance="2.754" X="-8.392" Y="5.772" Z="6.130" />
+      <Node Radius="2.603" FreeRadius="2.716" BRadius="4.512" T="0.12548" Distance="2.778" X="-8.395" Y="5.771" Z="6.106" />
+      <Node Radius="2.602" FreeRadius="2.764" BRadius="4.510" T="0.12928" Distance="2.844" X="-8.444" Y="5.769" Z="6.062" />
+      <Node Radius="2.610" FreeRadius="2.798" BRadius="4.517" T="0.13308" Distance="2.971" X="-8.551" Y="5.765" Z="5.994" />
+      <Node Radius="2.605" FreeRadius="2.790" BRadius="4.512" T="0.13688" Distance="3.174" X="-8.729" Y="5.758" Z="5.896" />
+      <Node Radius="2.543" FreeRadius="2.715" BRadius="4.452" T="0.14068" Distance="3.463" X="-8.986" Y="5.748" Z="5.765" />
+      <Node Radius="2.391" FreeRadius="2.558" BRadius="4.301" T="0.14449" Distance="3.830" X="-9.316" Y="5.735" Z="5.604" />
+      <Node Radius="2.185" FreeRadius="2.357" BRadius="4.097" T="0.14829" Distance="4.256" X="-9.700" Y="5.719" Z="5.421" />
+      <Node Radius="1.994" FreeRadius="2.173" BRadius="3.907" T="0.15209" Distance="4.720" X="-10.120" Y="5.703" Z="5.224" />
+      <Node Radius="1.871" FreeRadius="2.054" BRadius="3.781" T="0.15589" Distance="5.202" X="-10.556" Y="5.686" Z="5.021" />
+      <Node Radius="1.827" FreeRadius="2.002" BRadius="3.733" T="0.15970" Distance="5.682" X="-10.992" Y="5.669" Z="4.819" />
+      <Node Radius="1.862" FreeRadius="2.015" BRadius="3.768" T="0.16350" Distance="6.141" X="-11.408" Y="5.654" Z="4.626" />
+      <Node Radius="1.947" FreeRadius="2.079" BRadius="3.854" T="0.16730" Distance="6.557" X="-11.786" Y="5.641" Z="4.451" />
+      <Node Radius="2.018" FreeRadius="2.169" BRadius="3.927" T="0.17110" Distance="6.912" X="-12.107" Y="5.631" Z="4.301" />
+      <Node Radius="2.022" FreeRadius="2.261" BRadius="3.932" T="0.17490" Distance="7.187" X="-12.355" Y="5.625" Z="4.183" />
+      <Node Radius="1.973" FreeRadius="2.341" BRadius="3.882" T="0.17871" Distance="7.381" X="-12.530" Y="5.622" Z="4.098" />
+      <Node Radius="1.911" FreeRadius="2.401" BRadius="3.820" T="0.18251" Distance="7.506" X="-12.641" Y="5.621" Z="4.041" />
+      <Node Radius="1.869" FreeRadius="2.434" BRadius="3.778" T="0.18631" Distance="7.573" X="-12.699" Y="5.618" Z="4.008" />
+      <Node Radius="1.853" FreeRadius="2.445" BRadius="3.762" T="0.19011" Distance="7.595" X="-12.715" Y="5.614" Z="3.994" />
+      <Node Radius="1.865" FreeRadius="2.438" BRadius="3.774" T="0.19392" Distance="7.612" X="-12.700" Y="5.605" Z="3.994" />
+      <Node Radius="1.901" FreeRadius="2.417" BRadius="3.810" T="0.19772" Distance="7.653" X="-12.664" Y="5.590" Z="4.004" />
+      <Node Radius="1.948" FreeRadius="2.386" BRadius="3.857" T="0.20152" Distance="7.706" X="-12.618" Y="5.568" Z="4.020" />
+      <Node Radius="1.994" FreeRadius="2.349" BRadius="3.903" T="0.20532" Distance="7.764" X="-12.573" Y="5.536" Z="4.037" />
+      <Node Radius="2.036" FreeRadius="2.311" BRadius="3.945" T="0.20913" Distance="7.821" X="-12.538" Y="5.493" Z="4.050" />
+      <Node Radius="2.069" FreeRadius="2.276" BRadius="3.979" T="0.21293" Distance="7.878" X="-12.519" Y="5.439" Z="4.056" />
+      <Node Radius="2.093" FreeRadius="2.246" BRadius="4.003" T="0.21673" Distance="7.941" X="-12.515" Y="5.377" Z="4.053" />
+      <Node Radius="2.108" FreeRadius="2.224" BRadius="4.018" T="0.22053" Distance="8.012" X="-12.524" Y="5.307" Z="4.038" />
+      <Node Radius="2.117" FreeRadius="2.212" BRadius="4.026" T="0.22433" Distance="8.095" X="-12.547" Y="5.234" Z="4.009" />
+      <Node Radius="2.121" FreeRadius="2.216" BRadius="4.028" T="0.22814" Distance="8.190" X="-12.582" Y="5.158" Z="3.963" />
+      <Node Radius="2.121" FreeRadius="2.249" BRadius="4.026" T="0.23194" Distance="8.300" X="-12.629" Y="5.082" Z="3.898" />
+      <Node Radius="2.118" FreeRadius="2.316" BRadius="4.023" T="0.23574" Distance="8.428" X="-12.688" Y="5.008" Z="3.812" />
+      <Node Radius="2.115" FreeRadius="2.389" BRadius="4.020" T="0.23954" Distance="8.575" X="-12.757" Y="4.938" Z="3.702" />
+      <Node Radius="2.115" FreeRadius="2.429" BRadius="4.021" T="0.24335" Distance="8.745" X="-12.835" Y="4.874" Z="3.567" />
+      <Node Radius="2.121" FreeRadius="2.422" BRadius="4.027" T="0.24715" Distance="8.935" X="-12.922" Y="4.818" Z="3.407" />
+      <Node Radius="2.136" FreeRadius="2.401" BRadius="4.041" T="0.25095" Distance="9.140" X="-13.014" Y="4.768" Z="3.231" />
+      <Node Radius="2.160" FreeRadius="2.405" BRadius="4.066" T="0.25475" Distance="9.355" X="-13.109" Y="4.725" Z="3.043" />
+      <Node Radius="2.195" FreeRadius="2.443" BRadius="4.102" T="0.25856" Distance="9.571" X="-13.204" Y="4.690" Z="2.852" />
+      <Node Radius="2.240" FreeRadius="2.501" BRadius="4.146" T="0.26236" Distance="9.783" X="-13.295" Y="4.660" Z="2.662" />
+      <Node Radius="2.291" FreeRadius="2.568" BRadius="4.197" T="0.26616" Distance="9.984" X="-13.381" Y="4.638" Z="2.482" />
+      <Node Radius="2.343" FreeRadius="2.636" BRadius="4.250" T="0.26996" Distance="10.167" X="-13.458" Y="4.621" Z="2.318" />
+      <Node Radius="2.393" FreeRadius="2.703" BRadius="4.300" T="0.27376" Distance="10.324" X="-13.524" Y="4.611" Z="2.175" />
+      <Node Radius="2.435" FreeRadius="2.762" BRadius="4.342" T="0.27757" Distance="10.449" X="-13.576" Y="4.607" Z="2.061" />
+      <Node Radius="2.467" FreeRadius="2.813" BRadius="4.375" T="0.28137" Distance="10.541" X="-13.614" Y="4.608" Z="1.978" />
+      <Node Radius="2.488" FreeRadius="2.851" BRadius="4.397" T="0.28517" Distance="10.603" X="-13.638" Y="4.614" Z="1.922" />
+      <Node Radius="2.498" FreeRadius="2.876" BRadius="4.407" T="0.28897" Distance="10.639" X="-13.652" Y="4.623" Z="1.889" />
+      <Node Radius="2.499" FreeRadius="2.891" BRadius="4.407" T="0.29278" Distance="10.658" X="-13.657" Y="4.635" Z="1.876" />
+      <Node Radius="2.493" FreeRadius="2.897" BRadius="4.401" T="0.29658" Distance="10.671" X="-13.655" Y="4.648" Z="1.878" />
+      <Node Radius="2.480" FreeRadius="2.896" BRadius="4.389" T="0.30038" Distance="10.693" X="-13.648" Y="4.661" Z="1.894" />
+      <Node Radius="2.465" FreeRadius="2.889" BRadius="4.373" T="0.30418" Distance="10.722" X="-13.637" Y="4.673" Z="1.918" />
+      <Node Radius="2.448" FreeRadius="2.878" BRadius="4.356" T="0.30798" Distance="10.755" X="-13.625" Y="4.684" Z="1.947" />
+      <Node Radius="2.430" FreeRadius="2.864" BRadius="4.338" T="0.31179" Distance="10.788" X="-13.614" Y="4.692" Z="1.978" />
+      <Node Radius="2.414" FreeRadius="2.848" BRadius="4.322" T="0.31559" Distance="10.819" X="-13.605" Y="4.696" Z="2.007" />
+      <Node Radius="2.400" FreeRadius="2.833" BRadius="4.308" T="0.31939" Distance="10.845" X="-13.598" Y="4.698" Z="2.032" />
+      <Node Radius="2.390" FreeRadius="2.820" BRadius="4.299" T="0.32319" Distance="10.865" X="-13.595" Y="4.697" Z="2.051" />
+      <Node Radius="2.385" FreeRadius="2.811" BRadius="4.293" T="0.32700" Distance="10.876" X="-13.595" Y="4.694" Z="2.062" />
+      <Node Radius="2.383" FreeRadius="2.807" BRadius="4.292" T="0.33080" Distance="10.883" X="-13.600" Y="4.691" Z="2.063" />
+      <Node Radius="2.384" FreeRadius="2.806" BRadius="4.292" T="0.33460" Distance="10.899" X="-13.610" Y="4.686" Z="2.052" />
+      <Node Radius="2.390" FreeRadius="2.813" BRadius="4.298" T="0.33840" Distance="10.929" X="-13.626" Y="4.681" Z="2.026" />
+      <Node Radius="2.410" FreeRadius="2.836" BRadius="4.318" T="0.34221" Distance="10.977" X="-13.648" Y="4.676" Z="1.984" />
+      <Node Radius="2.450" FreeRadius="2.883" BRadius="4.359" T="0.34601" Distance="11.045" X="-13.676" Y="4.672" Z="1.922" />
+      <Node Radius="2.497" FreeRadius="2.939" BRadius="4.406" T="0.34981" Distance="11.133" X="-13.712" Y="4.668" Z="1.842" />
+      <Node Radius="2.522" FreeRadius="2.978" BRadius="4.430" T="0.35361" Distance="11.239" X="-13.753" Y="4.664" Z="1.744" />
+      <Node Radius="2.508" FreeRadius="2.980" BRadius="4.414" T="0.35741" Distance="11.361" X="-13.800" Y="4.658" Z="1.633" />
+      <Node Radius="2.469" FreeRadius="2.960" BRadius="4.372" T="0.36122" Distance="11.495" X="-13.852" Y="4.649" Z="1.509" />
+      <Node Radius="2.429" FreeRadius="2.943" BRadius="4.330" T="0.36502" Distance="11.639" X="-13.908" Y="4.636" Z="1.377" />
+      <Node Radius="2.397" FreeRadius="2.940" BRadius="4.298" T="0.36882" Distance="11.790" X="-13.967" Y="4.617" Z="1.239" />
+      <Node Radius="2.364" FreeRadius="2.950" BRadius="4.265" T="0.37262" Distance="11.947" X="-14.028" Y="4.591" Z="1.096" />
+      <Node Radius="2.319" FreeRadius="2.970" BRadius="4.220" T="0.37643" Distance="12.108" X="-14.091" Y="4.557" Z="0.953" />
+      <Node Radius="2.262" FreeRadius="3.001" BRadius="4.164" T="0.38023" Distance="12.269" X="-14.155" Y="4.514" Z="0.811" />
+      <Node Radius="2.199" FreeRadius="3.049" BRadius="4.101" T="0.38403" Distance="12.431" X="-14.219" Y="4.461" Z="0.672" />
+      <Node Radius="2.136" FreeRadius="3.114" BRadius="4.038" T="0.38783" Distance="12.594" X="-14.283" Y="4.398" Z="0.536" />
+      <Node Radius="2.079" FreeRadius="3.185" BRadius="3.981" T="0.39163" Distance="12.759" X="-14.347" Y="4.326" Z="0.402" />
+      <Node Radius="2.032" FreeRadius="3.251" BRadius="3.934" T="0.39544" Distance="12.927" X="-14.410" Y="4.247" Z="0.268" />
+      <Node Radius="2.000" FreeRadius="3.308" BRadius="3.902" T="0.39924" Distance="13.098" X="-14.472" Y="4.160" Z="0.135" />
+      <Node Radius="1.984" FreeRadius="3.363" BRadius="3.886" T="0.40304" Distance="13.272" X="-14.534" Y="4.067" Z="0.001" />
+      <Node Radius="1.983" FreeRadius="3.422" BRadius="3.885" T="0.40684" Distance="13.450" X="-14.593" Y="3.968" Z="-0.135" />
+      <Node Radius="1.990" FreeRadius="3.471" BRadius="3.892" T="0.41065" Distance="13.632" X="-14.652" Y="3.864" Z="-0.272" />
+      <Node Radius="1.992" FreeRadius="3.491" BRadius="3.894" T="0.41445" Distance="13.819" X="-14.708" Y="3.755" Z="-0.413" />
+      <Node Radius="1.983" FreeRadius="3.469" BRadius="3.886" T="0.41825" Distance="14.010" X="-14.763" Y="3.643" Z="-0.557" />
+      <Node Radius="1.971" FreeRadius="3.427" BRadius="3.873" T="0.42205" Distance="14.202" X="-14.816" Y="3.529" Z="-0.703" />
+      <Node Radius="1.967" FreeRadius="3.393" BRadius="3.868" T="0.42586" Distance="14.394" X="-14.870" Y="3.414" Z="-0.847" />
+      <Node Radius="1.978" FreeRadius="3.378" BRadius="3.875" T="0.42966" Distance="14.585" X="-14.925" Y="3.299" Z="-0.989" />
+      <Node Radius="2.005" FreeRadius="3.379" BRadius="3.898" T="0.43346" Distance="14.771" X="-14.983" Y="3.187" Z="-1.126" />
+      <Node Radius="2.046" FreeRadius="3.388" BRadius="3.938" T="0.43726" Distance="14.951" X="-15.044" Y="3.079" Z="-1.257" />
+      <Node Radius="2.096" FreeRadius="3.406" BRadius="3.987" T="0.44106" Distance="15.124" X="-15.109" Y="2.975" Z="-1.378" />
+      <Node Radius="2.143" FreeRadius="3.435" BRadius="4.036" T="0.44487" Distance="15.287" X="-15.179" Y="2.878" Z="-1.489" />
+      <Node Radius="2.182" FreeRadius="3.476" BRadius="4.075" T="0.44867" Distance="15.441" X="-15.257" Y="2.788" Z="-1.587" />
+      <Node Radius="2.211" FreeRadius="3.526" BRadius="4.104" T="0.45247" Distance="15.584" X="-15.340" Y="2.708" Z="-1.671" />
+      <Node Radius="2.230" FreeRadius="3.581" BRadius="4.123" T="0.45627" Distance="15.718" X="-15.428" Y="2.636" Z="-1.742" />
+      <Node Radius="2.243" FreeRadius="3.629" BRadius="4.135" T="0.46008" Distance="15.844" X="-15.518" Y="2.571" Z="-1.802" />
+      <Node Radius="2.258" FreeRadius="3.650" BRadius="4.150" T="0.46388" Distance="15.961" X="-15.606" Y="2.514" Z="-1.853" />
+      <Node Radius="2.279" FreeRadius="3.629" BRadius="4.174" T="0.46768" Distance="16.068" X="-15.689" Y="2.464" Z="-1.897" />
+      <Node Radius="2.305" FreeRadius="3.576" BRadius="4.205" T="0.47148" Distance="16.164" X="-15.765" Y="2.419" Z="-1.936" />
+      <Node Radius="2.328" FreeRadius="3.519" BRadius="4.234" T="0.47529" Distance="16.248" X="-15.831" Y="2.380" Z="-1.972" />
+      <Node Radius="2.342" FreeRadius="3.473" BRadius="4.253" T="0.47909" Distance="16.320" X="-15.884" Y="2.346" Z="-2.005" />
+      <Node Radius="2.341" FreeRadius="3.441" BRadius="4.257" T="0.48289" Distance="16.378" X="-15.921" Y="2.317" Z="-2.039" />
+      <Node Radius="2.324" FreeRadius="3.420" BRadius="4.241" T="0.48669" Distance="16.425" X="-15.941" Y="2.292" Z="-2.074" />
+      <Node Radius="2.295" FreeRadius="3.410" BRadius="4.208" T="0.49049" Distance="16.467" X="-15.944" Y="2.272" Z="-2.111" />
+      <Node Radius="2.267" FreeRadius="3.416" BRadius="4.176" T="0.49430" Distance="16.507" X="-15.935" Y="2.259" Z="-2.147" />
+      <Node Radius="2.253" FreeRadius="3.442" BRadius="4.159" T="0.49810" Distance="16.549" X="-15.915" Y="2.256" Z="-2.184" />
+      <Node Radius="2.256" FreeRadius="3.478" BRadius="4.163" T="0.50190" Distance="16.594" X="-15.888" Y="2.264" Z="-2.220" />
+      <Node Radius="2.278" FreeRadius="3.507" BRadius="4.187" T="0.50570" Distance="16.645" X="-15.857" Y="2.284" Z="-2.254" />
+      <Node Radius="2.315" FreeRadius="3.518" BRadius="4.225" T="0.50951" Distance="16.702" X="-15.824" Y="2.318" Z="-2.285" />
+      <Node Radius="2.344" FreeRadius="3.508" BRadius="4.253" T="0.51331" Distance="16.768" X="-15.792" Y="2.369" Z="-2.314" />
+      <Node Radius="2.340" FreeRadius="3.475" BRadius="4.245" T="0.51711" Distance="16.846" X="-15.764" Y="2.437" Z="-2.338" />
+      <Node Radius="2.299" FreeRadius="3.423" BRadius="4.198" T="0.52091" Distance="16.938" X="-15.742" Y="2.524" Z="-2.359" />
+      <Node Radius="2.236" FreeRadius="3.364" BRadius="4.132" T="0.52471" Distance="17.037" X="-15.725" Y="2.620" Z="-2.379" />
+      <Node Radius="2.165" FreeRadius="3.306" BRadius="4.066" T="0.52852" Distance="17.137" X="-15.712" Y="2.715" Z="-2.402" />
+      <Node Radius="2.104" FreeRadius="3.249" BRadius="4.014" T="0.53232" Distance="17.227" X="-15.701" Y="2.800" Z="-2.432" />
+      <Node Radius="2.070" FreeRadius="3.189" BRadius="3.988" T="0.53612" Distance="17.303" X="-15.691" Y="2.863" Z="-2.474" />
+      <Node Radius="2.073" FreeRadius="3.127" BRadius="3.995" T="0.53992" Distance="17.369" X="-15.681" Y="2.895" Z="-2.530" />
+      <Node Radius="2.110" FreeRadius="3.067" BRadius="4.029" T="0.54373" Distance="17.447" X="-15.668" Y="2.885" Z="-2.606" />
+      <Node Radius="2.172" FreeRadius="3.013" BRadius="4.083" T="0.54753" Distance="17.565" X="-15.651" Y="2.822" Z="-2.705" />
+      <Node Radius="2.227" FreeRadius="2.966" BRadius="4.128" T="0.55133" Distance="17.744" X="-15.628" Y="2.697" Z="-2.831" />
+      <Node Radius="2.219" FreeRadius="2.924" BRadius="4.115" T="0.55513" Distance="17.994" X="-15.599" Y="2.502" Z="-2.986" />
+      <Node Radius="2.110" FreeRadius="2.883" BRadius="4.006" T="0.55894" Distance="18.308" X="-15.565" Y="2.247" Z="-3.165" />
+      <Node Radius="1.943" FreeRadius="2.851" BRadius="3.845" T="0.56274" Distance="18.666" X="-15.528" Y="1.949" Z="-3.361" />
+      <Node Radius="1.793" FreeRadius="2.837" BRadius="3.699" T="0.56654" Distance="19.052" X="-15.489" Y="1.624" Z="-3.564" />
+      <Node Radius="1.710" FreeRadius="2.847" BRadius="3.617" T="0.57034" Distance="19.446" X="-15.452" Y="1.287" Z="-3.766" />
+      <Node Radius="1.697" FreeRadius="2.874" BRadius="3.603" T="0.57414" Distance="19.833" X="-15.417" Y="0.955" Z="-3.960" />
+      <Node Radius="1.747" FreeRadius="2.913" BRadius="3.653" T="0.57795" Distance="20.192" X="-15.388" Y="0.643" Z="-4.137" />
+      <Node Radius="1.824" FreeRadius="2.958" BRadius="3.730" T="0.58175" Distance="20.506" X="-15.367" Y="0.369" Z="-4.288" />
+      <Node Radius="1.866" FreeRadius="3.006" BRadius="3.772" T="0.58555" Distance="20.758" X="-15.354" Y="0.147" Z="-4.406" />
+      <Node Radius="1.826" FreeRadius="3.052" BRadius="3.732" T="0.58935" Distance="20.932" X="-15.353" Y="-0.009" Z="-4.485" />
+      <Node Radius="1.741" FreeRadius="3.091" BRadius="3.648" T="0.59316" Distance="21.034" X="-15.361" Y="-0.102" Z="-4.526" />
+      <Node Radius="1.679" FreeRadius="3.117" BRadius="3.585" T="0.59696" Distance="21.080" X="-15.374" Y="-0.144" Z="-4.537" />
+      <Node Radius="1.673" FreeRadius="3.128" BRadius="3.580" T="0.60076" Distance="21.100" X="-15.389" Y="-0.148" Z="-4.526" />
+      <Node Radius="1.707" FreeRadius="3.130" BRadius="3.613" T="0.60456" Distance="21.138" X="-15.404" Y="-0.124" Z="-4.499" />
+      <Node Radius="1.756" FreeRadius="3.126" BRadius="3.663" T="0.60837" Distance="21.193" X="-15.413" Y="-0.084" Z="-4.463" />
+      <Node Radius="1.804" FreeRadius="3.121" BRadius="3.710" T="0.61217" Distance="21.251" X="-15.414" Y="-0.039" Z="-4.427" />
+      <Node Radius="1.838" FreeRadius="3.116" BRadius="3.744" T="0.61597" Distance="21.300" X="-15.404" Y="-0.001" Z="-4.396" />
+      <Node Radius="1.848" FreeRadius="3.115" BRadius="3.755" T="0.61977" Distance="21.337" X="-15.378" Y="0.018" Z="-4.379" />
+      <Node Radius="1.837" FreeRadius="3.119" BRadius="3.745" T="0.62357" Distance="21.382" X="-15.334" Y="0.008" Z="-4.380" />
+      <Node Radius="1.811" FreeRadius="3.128" BRadius="3.717" T="0.62738" Distance="21.457" X="-15.273" Y="-0.032" Z="-4.402" />
+      <Node Radius="1.778" FreeRadius="3.146" BRadius="3.678" T="0.63118" Distance="21.564" X="-15.198" Y="-0.097" Z="-4.440" />
+      <Node Radius="1.744" FreeRadius="3.171" BRadius="3.640" T="0.63498" Distance="21.697" X="-15.111" Y="-0.183" Z="-4.491" />
+      <Node Radius="1.719" FreeRadius="3.205" BRadius="3.611" T="0.63878" Distance="21.852" X="-15.015" Y="-0.287" Z="-4.553" />
+      <Node Radius="1.705" FreeRadius="3.249" BRadius="3.597" T="0.64259" Distance="22.022" X="-14.912" Y="-0.404" Z="-4.623" />
+      <Node Radius="1.704" FreeRadius="3.305" BRadius="3.598" T="0.64639" Distance="22.202" X="-14.807" Y="-0.530" Z="-4.697" />
+      <Node Radius="1.714" FreeRadius="3.372" BRadius="3.612" T="0.65019" Distance="22.387" X="-14.700" Y="-0.660" Z="-4.772" />
+      <Node Radius="1.732" FreeRadius="3.444" BRadius="3.634" T="0.65399" Distance="22.570" X="-14.596" Y="-0.791" Z="-4.846" />
+      <Node Radius="1.750" FreeRadius="3.509" BRadius="3.656" T="0.65779" Distance="22.745" X="-14.497" Y="-0.919" Z="-4.915" />
+      <Node Radius="1.768" FreeRadius="3.556" BRadius="3.674" T="0.66160" Distance="22.912" X="-14.404" Y="-1.041" Z="-4.979" />
+      <Node Radius="1.787" FreeRadius="3.573" BRadius="3.693" T="0.66540" Distance="23.067" X="-14.317" Y="-1.156" Z="-5.037" />
+      <Node Radius="1.813" FreeRadius="3.549" BRadius="3.718" T="0.66920" Distance="23.210" X="-14.236" Y="-1.263" Z="-5.089" />
+      <Node Radius="1.845" FreeRadius="3.494" BRadius="3.750" T="0.67300" Distance="23.341" X="-14.163" Y="-1.361" Z="-5.135" />
+      <Node Radius="1.880" FreeRadius="3.435" BRadius="3.785" T="0.67681" Distance="23.457" X="-14.097" Y="-1.448" Z="-5.175" />
+      <Node Radius="1.916" FreeRadius="3.392" BRadius="3.820" T="0.68061" Distance="23.559" X="-14.038" Y="-1.523" Z="-5.209" />
+      <Node Radius="1.947" FreeRadius="3.365" BRadius="3.852" T="0.68441" Distance="23.644" X="-13.988" Y="-1.586" Z="-5.237" />
+      <Node Radius="1.970" FreeRadius="3.347" BRadius="3.876" T="0.68821" Distance="23.712" X="-13.945" Y="-1.634" Z="-5.258" />
+      <Node Radius="1.982" FreeRadius="3.333" BRadius="3.892" T="0.69202" Distance="23.763" X="-13.911" Y="-1.668" Z="-5.274" />
+      <Node Radius="1.987" FreeRadius="3.324" BRadius="3.900" T="0.69582" Distance="23.797" X="-13.885" Y="-1.688" Z="-5.283" />
+      <Node Radius="1.987" FreeRadius="3.320" BRadius="3.901" T="0.69962" Distance="23.818" X="-13.866" Y="-1.697" Z="-5.289" />
+      <Node Radius="1.985" FreeRadius="3.321" BRadius="3.899" T="0.70342" Distance="23.829" X="-13.855" Y="-1.699" Z="-5.291" />
+      <Node Radius="1.983" FreeRadius="3.322" BRadius="3.897" T="0.70722" Distance="23.834" X="-13.851" Y="-1.697" Z="-5.290" />
+      <Node Radius="1.983" FreeRadius="3.323" BRadius="3.896" T="0.71103" Distance="23.838" X="-13.852" Y="-1.695" Z="-5.289" />
+      <Node Radius="1.985" FreeRadius="3.322" BRadius="3.899" T="0.71483" Distance="23.845" X="-13.859" Y="-1.695" Z="-5.287" />
+      <Node Radius="1.991" FreeRadius="3.316" BRadius="3.905" T="0.71863" Distance="23.858" X="-13.870" Y="-1.701" Z="-5.286" />
+      <Node Radius="1.997" FreeRadius="3.305" BRadius="3.911" T="0.72243" Distance="23.880" X="-13.886" Y="-1.716" Z="-5.288" />
+      <Node Radius="2.000" FreeRadius="3.288" BRadius="3.914" T="0.72624" Distance="23.913" X="-13.906" Y="-1.743" Z="-5.293" />
+      <Node Radius="1.993" FreeRadius="3.264" BRadius="3.906" T="0.73004" Distance="23.959" X="-13.928" Y="-1.782" Z="-5.300" />
+      <Node Radius="1.978" FreeRadius="3.235" BRadius="3.891" T="0.73384" Distance="24.012" X="-13.952" Y="-1.828" Z="-5.308" />
+      <Node Radius="1.963" FreeRadius="3.202" BRadius="3.875" T="0.73764" Distance="24.068" X="-13.976" Y="-1.878" Z="-5.314" />
+      <Node Radius="1.951" FreeRadius="3.167" BRadius="3.863" T="0.74144" Distance="24.123" X="-13.999" Y="-1.929" Z="-5.316" />
+      <Node Radius="1.949" FreeRadius="3.131" BRadius="3.861" T="0.74525" Distance="24.174" X="-14.019" Y="-1.975" Z="-5.313" />
+      <Node Radius="1.958" FreeRadius="3.096" BRadius="3.871" T="0.74905" Distance="24.217" X="-14.036" Y="-2.013" Z="-5.302" />
+      <Node Radius="1.977" FreeRadius="3.062" BRadius="3.889" T="0.75285" Distance="24.253" X="-14.048" Y="-2.040" Z="-5.281" />
+      <Node Radius="1.989" FreeRadius="3.031" BRadius="3.901" T="0.75665" Distance="24.289" X="-14.053" Y="-2.051" Z="-5.247" />
+      <Node Radius="1.983" FreeRadius="3.005" BRadius="3.896" T="0.76046" Distance="24.337" X="-14.051" Y="-2.043" Z="-5.200" />
+      <Node Radius="1.954" FreeRadius="2.983" BRadius="3.867" T="0.76426" Distance="24.401" X="-14.042" Y="-2.017" Z="-5.142" />
+      <Node Radius="1.905" FreeRadius="2.967" BRadius="3.817" T="0.76806" Distance="24.472" X="-14.030" Y="-1.982" Z="-5.081" />
+      <Node Radius="1.843" FreeRadius="2.957" BRadius="3.751" T="0.77186" Distance="24.540" X="-14.016" Y="-1.946" Z="-5.025" />
+      <Node Radius="1.793" FreeRadius="2.950" BRadius="3.697" T="0.77567" Distance="24.592" X="-14.005" Y="-1.918" Z="-4.983" />
+      <Node Radius="1.782" FreeRadius="2.948" BRadius="3.686" T="0.77947" Distance="24.615" X="-13.999" Y="-1.906" Z="-4.964" />
+      <Node Radius="1.813" FreeRadius="2.947" BRadius="3.719" T="0.78327" Distance="24.632" X="-14.001" Y="-1.918" Z="-4.975" />
+      <Node Radius="1.855" FreeRadius="2.944" BRadius="3.766" T="0.78707" Distance="24.700" X="-14.015" Y="-1.964" Z="-5.024" />
+      <Node Radius="1.879" FreeRadius="2.938" BRadius="3.794" T="0.79087" Distance="24.833" X="-14.043" Y="-2.050" Z="-5.121" />
+      <Node Radius="1.858" FreeRadius="2.944" BRadius="3.777" T="0.79468" Distance="25.042" X="-14.089" Y="-2.186" Z="-5.272" />
+      <Node Radius="1.770" FreeRadius="2.987" BRadius="3.691" T="0.79848" Distance="25.326" X="-14.152" Y="-2.370" Z="-5.479" />
+      <Node Radius="1.610" FreeRadius="3.057" BRadius="3.532" T="0.80228" Distance="25.668" X="-14.228" Y="-2.589" Z="-5.731" />
+      <Node Radius="1.428" FreeRadius="3.061" BRadius="3.350" T="0.80608" Distance="26.049" X="-14.312" Y="-2.828" Z="-6.016" />
+      <Node Radius="1.281" FreeRadius="2.890" BRadius="3.203" T="0.80989" Distance="26.453" X="-14.401" Y="-3.074" Z="-6.323" />
+      <Node Radius="1.202" FreeRadius="2.549" BRadius="3.124" T="0.81369" Distance="26.861" X="-14.489" Y="-3.313" Z="-6.642" />
+      <Node Radius="1.201" FreeRadius="2.161" BRadius="3.122" T="0.81749" Distance="27.256" X="-14.573" Y="-3.531" Z="-6.961" />
+      <Node Radius="1.276" FreeRadius="1.842" BRadius="3.198" T="0.82129" Distance="27.621" X="-14.648" Y="-3.713" Z="-7.268" />
+      <Node Radius="1.373" FreeRadius="1.609" BRadius="3.296" T="0.82510" Distance="27.942" X="-14.709" Y="-3.846" Z="-7.554" />
+      <Node Radius="1.412" FreeRadius="1.441" BRadius="3.336" T="0.82890" Distance="28.208" X="-14.753" Y="-3.915" Z="-7.807" />
+      <Node Radius="1.355" FreeRadius="1.323" BRadius="3.280" T="0.83270" Distance="28.424" X="-14.777" Y="-3.917" Z="-8.021" />
+      <Node Radius="1.268" FreeRadius="1.254" BRadius="3.194" T="0.83650" Distance="28.610" X="-14.785" Y="-3.863" Z="-8.199" />
+      <Node Radius="1.231" FreeRadius="1.239" BRadius="3.158" T="0.84030" Distance="28.786" X="-14.779" Y="-3.765" Z="-8.345" />
+      <Node Radius="1.267" FreeRadius="1.273" BRadius="3.194" T="0.84411" Distance="28.961" X="-14.762" Y="-3.636" Z="-8.463" />
+      <Node Radius="1.347" FreeRadius="1.347" BRadius="3.273" T="0.84791" Distance="29.138" X="-14.738" Y="-3.487" Z="-8.554" />
+      <Node Radius="1.438" FreeRadius="1.447" BRadius="3.364" T="0.85171" Distance="29.311" X="-14.710" Y="-3.331" Z="-8.624" />
+      <Node Radius="1.517" FreeRadius="1.557" BRadius="3.443" T="0.85551" Distance="29.473" X="-14.680" Y="-3.180" Z="-8.676" />
+      <Node Radius="1.560" FreeRadius="1.660" BRadius="3.486" T="0.85932" Distance="29.614" X="-14.652" Y="-3.047" Z="-8.712" />
+      <Node Radius="1.561" FreeRadius="1.743" BRadius="3.487" T="0.86312" Distance="29.723" X="-14.629" Y="-2.943" Z="-8.737" />
+      <Node Radius="1.540" FreeRadius="1.803" BRadius="3.466" T="0.86692" Distance="29.795" X="-14.612" Y="-2.875" Z="-8.753" />
+      <Node Radius="1.524" FreeRadius="1.837" BRadius="3.450" T="0.87072" Distance="29.835" X="-14.601" Y="-2.838" Z="-8.763" />
+      <Node Radius="1.523" FreeRadius="1.848" BRadius="3.449" T="0.87452" Distance="29.848" X="-14.595" Y="-2.827" Z="-8.766" />
+      <Node Radius="1.530" FreeRadius="1.842" BRadius="3.456" T="0.87833" Distance="29.856" X="-14.594" Y="-2.835" Z="-8.765" />
+      <Node Radius="1.540" FreeRadius="1.824" BRadius="3.466" T="0.88213" Distance="29.878" X="-14.597" Y="-2.856" Z="-8.762" />
+      <Node Radius="1.550" FreeRadius="1.799" BRadius="3.476" T="0.88593" Distance="29.908" X="-14.603" Y="-2.885" Z="-8.757" />
+      <Node Radius="1.559" FreeRadius="1.772" BRadius="3.486" T="0.88973" Distance="29.941" X="-14.611" Y="-2.916" Z="-8.752" />
+      <Node Radius="1.567" FreeRadius="1.747" BRadius="3.493" T="0.89354" Distance="29.970" X="-14.621" Y="-2.944" Z="-8.749" />
+      <Node Radius="1.570" FreeRadius="1.727" BRadius="3.496" T="0.89734" Distance="29.991" X="-14.632" Y="-2.961" Z="-8.749" />
+      <Node Radius="1.567" FreeRadius="1.716" BRadius="3.493" T="0.90114" Distance="30.004" X="-14.644" Y="-2.965" Z="-8.753" />
+      <Node Radius="1.558" FreeRadius="1.711" BRadius="3.484" T="0.90494" Distance="30.023" X="-14.658" Y="-2.958" Z="-8.763" />
+      <Node Radius="1.545" FreeRadius="1.711" BRadius="3.471" T="0.90875" Distance="30.053" X="-14.674" Y="-2.941" Z="-8.782" />
+      <Node Radius="1.529" FreeRadius="1.712" BRadius="3.456" T="0.91255" Distance="30.095" X="-14.693" Y="-2.916" Z="-8.811" />
+      <Node Radius="1.515" FreeRadius="1.712" BRadius="3.443" T="0.91635" Distance="30.152" X="-14.717" Y="-2.886" Z="-8.852" />
+      <Node Radius="1.506" FreeRadius="1.709" BRadius="3.435" T="0.92015" Distance="30.222" X="-14.747" Y="-2.853" Z="-8.908" />
+      <Node Radius="1.505" FreeRadius="1.702" BRadius="3.434" T="0.92395" Distance="30.309" X="-14.783" Y="-2.820" Z="-8.979" />
+      <Node Radius="1.505" FreeRadius="1.688" BRadius="3.434" T="0.92776" Distance="30.413" X="-14.826" Y="-2.787" Z="-9.068" />
+      <Node Radius="1.498" FreeRadius="1.667" BRadius="3.427" T="0.93156" Distance="30.537" X="-14.878" Y="-2.758" Z="-9.176" />
+      <Node Radius="1.479" FreeRadius="1.639" BRadius="3.408" T="0.93536" Distance="30.682" X="-14.938" Y="-2.734" Z="-9.305" />
+      <Node Radius="1.443" FreeRadius="1.608" BRadius="3.372" T="0.93916" Distance="30.843" X="-15.005" Y="-2.715" Z="-9.451" />
+      <Node Radius="1.390" FreeRadius="1.577" BRadius="3.319" T="0.94297" Distance="31.016" X="-15.076" Y="-2.704" Z="-9.609" />
+      <Node Radius="1.334" FreeRadius="1.547" BRadius="3.263" T="0.94677" Distance="31.198" X="-15.150" Y="-2.700" Z="-9.775" />
+      <Node Radius="1.291" FreeRadius="1.522" BRadius="3.220" T="0.95057" Distance="31.383" X="-15.223" Y="-2.703" Z="-9.944" />
+      <Node Radius="1.271" FreeRadius="1.500" BRadius="3.199" T="0.95437" Distance="31.566" X="-15.294" Y="-2.715" Z="-10.113" />
+      <Node Radius="1.260" FreeRadius="1.482" BRadius="3.189" T="0.95817" Distance="31.745" X="-15.361" Y="-2.737" Z="-10.277" />
+      <Node Radius="1.247" FreeRadius="1.466" BRadius="3.175" T="0.96198" Distance="31.914" X="-15.420" Y="-2.768" Z="-10.433" />
+      <Node Radius="1.221" FreeRadius="1.448" BRadius="3.150" T="0.96578" Distance="32.070" X="-15.470" Y="-2.810" Z="-10.574" />
+      <Node Radius="1.177" FreeRadius="1.426" BRadius="3.106" T="0.96958" Distance="32.211" X="-15.509" Y="-2.862" Z="-10.700" />
+      <Node Radius="1.113" FreeRadius="1.399" BRadius="3.041" T="0.97338" Distance="32.341" X="-15.539" Y="-2.924" Z="-10.810" />
+      <Node Radius="1.043" FreeRadius="1.367" BRadius="2.972" T="0.97719" Distance="32.463" X="-15.560" Y="-2.995" Z="-10.907" />
+      <Node Radius="0.988" FreeRadius="1.334" BRadius="2.917" T="0.98099" Distance="32.580" X="-15.573" Y="-3.073" Z="-10.992" />
+      <Node Radius="0.958" FreeRadius="1.300" BRadius="2.886" T="0.98479" Distance="32.693" X="-15.580" Y="-3.157" Z="-11.068" />
+      <Node Radius="0.947" FreeRadius="1.256" BRadius="2.875" T="0.98859" Distance="32.805" X="-15.582" Y="-3.246" Z="-11.137" />
+      <Node Radius="0.947" FreeRadius="1.193" BRadius="2.875" T="0.99240" Distance="32.917" X="-15.580" Y="-3.339" Z="-11.199" />
+      <Node Radius="0.955" FreeRadius="1.114" BRadius="2.883" T="0.99620" Distance="33.029" X="-15.575" Y="-3.434" Z="-11.258" />
+      <Node Radius="0.966" FreeRadius="1.026" BRadius="2.894" T="1.00000" Distance="33.141" X="-15.570" Y="-3.531" Z="-11.315" />
+    </Profile>
+    <Layers>
+      <ResidueFlow>ALA 119 B,CYS 181 B,LEU 360 B,PHE 220 B,PHE 417 B,SER 133 C Backbone,GLY 180 B Backbone,VAL 120 B,CYS 219 B,GLN 132 C Backbone,TRP 136 C,GLN 132 C,THR 216 B,THR 123 B,ILE 215 B,LEU 117 C,LEU 126 B,TYR 195 C,PHE 155 B,THR 110 C,ALA 199 C,LEU 151 B,TYR 195 C Backbone</ResidueFlow>
+      <HetResidues></HetResidues>
+      <LayerWeightedProperties Hydrophobicity="0.75" Hydropathy="1.15" LogP="1.54" LogD="1.54" LogS="-1.02" Polarity="1.22" Mutability="63" />
+      <Layer MinRadius="1.49678" MinFreeRadius="2.37011" MinBRadius="3.42290" StartDistance="0.00000" EndDistance="1.36573" LocalMinimum="0">
+        <Residues>ALA 119 B,CYS 181 B,LEU 360 B</Residues>
+        <FlowIndices>0,1,2</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.64" Hydropathy="2.70" LogP="1.33" LogD="1.33" LogS="-0.35" Polarity="0.54" Mutability="66" />
+      </Layer>
+      <Layer MinRadius="2.22369" MinFreeRadius="3.00063" MinBRadius="4.14689" StartDistance="1.36573" EndDistance="1.88788" LocalMinimum="0">
+        <Residues>ALA 119 B,CYS 181 B,LEU 360 B,PHE 220 B</Residues>
+        <FlowIndices>0,1,2,3</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.82" Hydropathy="2.73" LogP="1.62" LogD="1.62" LogS="-0.71" Polarity="0.49" Mutability="62" />
+      </Layer>
+      <Layer MinRadius="2.45132" MinFreeRadius="2.93687" MinBRadius="4.36728" StartDistance="1.88788" EndDistance="2.06466" LocalMinimum="0">
+        <Residues>ALA 119 B,CYS 181 B,LEU 360 B,PHE 220 B,PHE 417 B</Residues>
+        <FlowIndices>0,1,2,3,4</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.93" Hydropathy="2.74" LogP="1.80" LogD="1.80" LogS="-0.93" Polarity="0.46" Mutability="60" />
+      </Layer>
+      <Layer MinRadius="2.50883" MinFreeRadius="2.84538" MinBRadius="4.41831" StartDistance="2.06466" EndDistance="2.31342" LocalMinimum="0">
+        <Residues>ALA 119 B,CYS 181 B,PHE 220 B,PHE 417 B</Residues>
+        <FlowIndices>0,1,3,4</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.87" Hydropathy="2.48" LogP="1.73" LogD="1.73" LogS="-0.72" Polarity="0.55" Mutability="61" />
+      </Layer>
+      <Layer MinRadius="2.71750" MinFreeRadius="2.89702" MinBRadius="4.62178" StartDistance="2.31342" EndDistance="2.62306" LocalMinimum="0">
+        <Residues>ALA 119 B,PHE 220 B,PHE 417 B,SER 133 C Backbone</Residues>
+        <FlowIndices>0,3,4,5</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.48" Hydropathy="1.75" LogP="1.30" LogD="1.30" LogS="-0.56" Polarity="1.02" Mutability="67" />
+      </Layer>
+      <Layer MinRadius="2.69123" MinFreeRadius="2.79891" MinBRadius="4.59498" StartDistance="2.62306" EndDistance="2.73754" LocalMinimum="0">
+        <Residues>ALA 119 B,PHE 417 B,SER 133 C Backbone,GLY 180 B Backbone</Residues>
+        <FlowIndices>0,4,5,6</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="-0.06" Hydropathy="0.95" LogP="0.46" LogD="0.46" LogS="0.10" Polarity="1.78" Mutability="75" />
+      </Layer>
+      <Layer MinRadius="2.61245" MinFreeRadius="2.69222" MinBRadius="4.52140" StartDistance="2.73754" EndDistance="2.92950" LocalMinimum="0">
+        <Residues>ALA 119 B,CYS 181 B,PHE 417 B,GLY 180 B Backbone</Residues>
+        <FlowIndices>0,1,4,6</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.34" Hydropathy="1.68" LogP="0.89" LogD="0.89" LogS="-0.06" Polarity="1.30" Mutability="65" />
+      </Layer>
+      <Layer MinRadius="2.60894" MinFreeRadius="2.79617" MinBRadius="4.51595" StartDistance="2.92950" EndDistance="3.64058" LocalMinimum="0">
+        <Residues>ALA 119 B,PHE 220 B,PHE 417 B,SER 133 C Backbone,GLY 180 B Backbone</Residues>
+        <FlowIndices>0,3,4,5,6</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.22" Hydropathy="1.32" LogP="0.87" LogD="0.87" LogS="-0.28" Polarity="1.49" Mutability="67" />
+      </Layer>
+      <Layer MinRadius="2.46678" MinFreeRadius="2.63458" MinBRadius="4.37620" StartDistance="3.64058" EndDistance="4.81768" LocalMinimum="0">
+        <Residues>ALA 119 B,PHE 220 B,PHE 417 B,SER 133 C Backbone,VAL 120 B</Residues>
+        <FlowIndices>0,3,4,5,7</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.61" Hydropathy="2.24" LogP="1.40" LogD="1.40" LogS="-0.70" Polarity="0.84" Mutability="75" />
+      </Layer>
+      <Layer MinRadius="1.95526" MinFreeRadius="2.13608" MinBRadius="3.86771" StartDistance="4.81768" EndDistance="6.08948" LocalMinimum="0">
+        <Residues>LEU 360 B,PHE 220 B,SER 133 C Backbone,VAL 120 B</Residues>
+        <FlowIndices>2,3,5,7</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.71" Hydropathy="2.60" LogP="1.38" LogD="1.38" LogS="-1.02" Polarity="1.00" Mutability="67" />
+      </Layer>
+      <Layer MinRadius="1.85786" MinFreeRadius="2.01287" MinBRadius="3.76343" StartDistance="6.08948" EndDistance="7.06950" LocalMinimum="1">
+        <Residues>PHE 220 B,SER 133 C Backbone,VAL 120 B</Residues>
+        <FlowIndices>3,5,7</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.56" Hydropathy="2.20" LogP="1.14" LogD="1.14" LogS="-0.77" Polarity="1.29" Mutability="74" />
+      </Layer>
+      <Layer MinRadius="1.86456" MinFreeRadius="2.21172" MinBRadius="3.77371" StartDistance="7.06950" EndDistance="8.32996" LocalMinimum="0">
+        <Residues>PHE 220 B,SER 133 C Backbone,VAL 120 B,CYS 219 B</Residues>
+        <FlowIndices>3,5,7,8</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.61" Hydropathy="2.28" LogP="1.07" LogD="1.07" LogS="-0.54" Polarity="1.34" Mutability="64" />
+      </Layer>
+      <Layer MinRadius="2.11688" MinFreeRadius="2.29511" MinBRadius="4.02226" StartDistance="8.32996" EndDistance="9.31158" LocalMinimum="0">
+        <Residues>SER 133 C Backbone,VAL 120 B,CYS 219 B,GLN 132 C Backbone</Residues>
+        <FlowIndices>5,7,8,9</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.08" Hydropathy="1.48" LogP="0.23" LogD="0.23" LogS="0.12" Polarity="2.09" Mutability="71" />
+      </Layer>
+      <Layer MinRadius="2.16307" MinFreeRadius="2.40712" MinBRadius="4.06866" StartDistance="9.31158" EndDistance="9.87748" LocalMinimum="0">
+        <Residues>SER 133 C Backbone,VAL 120 B,CYS 219 B,GLN 132 C Backbone,TRP 136 C</Residues>
+        <FlowIndices>5,7,8,9,10</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.40" Hydropathy="1.00" LogP="0.70" LogD="0.70" LogS="-0.40" Polarity="2.09" Mutability="55" />
+      </Layer>
+      <Layer MinRadius="2.27872" MinFreeRadius="2.55251" MinBRadius="4.18519" StartDistance="9.87748" EndDistance="10.54596" LocalMinimum="0">
+        <Residues>VAL 120 B,CYS 219 B,TRP 136 C,GLN 132 C</Residues>
+        <FlowIndices>7,8,10,11</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.63" Hydropathy="0.58" LogP="1.23" LogD="1.23" LogS="-0.87" Polarity="1.81" Mutability="62" />
+      </Layer>
+      <Layer MinRadius="2.41114" MinFreeRadius="2.84511" MinBRadius="4.31926" StartDistance="10.54596" EndDistance="10.80303" LocalMinimum="0">
+        <Residues>VAL 120 B,CYS 219 B,TRP 136 C,GLN 132 C,THR 216 B</Residues>
+        <FlowIndices>7,8,10,11,12</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.35" Hydropathy="0.32" LogP="0.95" LogD="0.95" LogS="-0.54" Polarity="1.78" Mutability="71" />
+      </Layer>
+      <Layer MinRadius="2.38547" MinFreeRadius="2.81224" MinBRadius="4.29364" StartDistance="10.80303" EndDistance="10.83708" LocalMinimum="1">
+        <Residues>VAL 120 B,CYS 219 B,GLN 132 C Backbone,TRP 136 C,THR 216 B</Residues>
+        <FlowIndices>7,8,9,10,12</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.41" Hydropathy="0.94" LogP="0.84" LogD="0.84" LogS="-0.41" Polarity="1.75" Mutability="68" />
+      </Layer>
+      <Layer MinRadius="2.38656" MinFreeRadius="2.80871" MinBRadius="4.29456" StartDistance="10.83708" EndDistance="11.65394" LocalMinimum="1">
+        <Residues>VAL 120 B,CYS 219 B,TRP 136 C,GLN 132 C,THR 216 B</Residues>
+        <FlowIndices>7,8,10,11,12</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.35" Hydropathy="0.32" LogP="0.95" LogD="0.95" LogS="-0.54" Polarity="1.78" Mutability="71" />
+      </Layer>
+      <Layer MinRadius="2.13765" MinFreeRadius="2.93942" MinBRadius="4.03911" StartDistance="11.65394" EndDistance="12.96185" LocalMinimum="0">
+        <Residues>TRP 136 C,GLN 132 C,THR 216 B,THR 123 B</Residues>
+        <FlowIndices>10,11,12,13</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="-0.23" Hydropathy="-1.45" LogP="0.49" LogD="0.49" LogS="-0.20" Polarity="2.24" Mutability="80" />
+      </Layer>
+      <Layer MinRadius="1.97323" MinFreeRadius="3.28977" MinBRadius="3.87137" StartDistance="12.96185" EndDistance="14.94303" LocalMinimum="1">
+        <Residues>TRP 136 C,GLN 132 C,THR 123 B,ILE 215 B</Residues>
+        <FlowIndices>10,11,13,14</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.41" Hydropathy="-0.15" LogP="1.09" LogD="1.09" LogS="-0.86" Polarity="1.86" Mutability="79" />
+      </Layer>
+      <Layer MinRadius="2.06538" MinFreeRadius="3.39397" MinBRadius="3.95694" StartDistance="14.94303" EndDistance="16.24839" LocalMinimum="0">
+        <Residues>TRP 136 C,GLN 132 C,ILE 215 B</Residues>
+        <FlowIndices>10,11,14</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.81" Hydropathy="0.03" LogP="1.50" LogD="1.50" LogS="-1.40" Polarity="1.92" Mutability="70" />
+      </Layer>
+      <Layer MinRadius="2.30098" MinFreeRadius="3.41026" MinBRadius="4.21459" StartDistance="16.24839" EndDistance="16.48467" LocalMinimum="0">
+        <Residues>TRP 136 C,GLN 132 C,ILE 215 B,LEU 117 C</Residues>
+        <FlowIndices>10,11,14,15</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.89" Hydropathy="0.98" LogP="1.65" LogD="1.65" LogS="-1.50" Polarity="1.47" Mutability="66" />
+      </Layer>
+      <Layer MinRadius="2.12931" MinFreeRadius="3.27445" MinBRadius="4.03466" StartDistance="16.48467" EndDistance="17.28446" LocalMinimum="0">
+        <Residues>TRP 136 C,ILE 215 B,LEU 117 C</Residues>
+        <FlowIndices>10,14,15</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="1.55" Hydropathy="2.47" LogP="2.30" LogD="2.30" LogS="-2.04" Polarity="0.79" Mutability="60" />
+      </Layer>
+      <Layer MinRadius="2.07898" MinFreeRadius="3.11262" MinBRadius="4.00032" StartDistance="17.28446" EndDistance="17.61869" LocalMinimum="1">
+        <Residues>TRP 136 C,THR 123 B,ILE 215 B,LEU 117 C</Residues>
+        <FlowIndices>10,13,14,15</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.97" Hydropathy="1.68" LogP="1.69" LogD="1.69" LogS="-1.34" Polarity="1.01" Mutability="72" />
+      </Layer>
+      <Layer MinRadius="2.22381" MinFreeRadius="2.96982" MinBRadius="4.12618" StartDistance="17.61869" EndDistance="18.41107" LocalMinimum="0">
+        <Residues>TRP 136 C,ILE 215 B,LEU 117 C,LEU 126 B</Residues>
+        <FlowIndices>10,14,15,16</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="1.45" Hydropathy="2.80" LogP="2.25" LogD="2.25" LogS="-1.98" Polarity="0.62" Mutability="59" />
+      </Layer>
+      <Layer MinRadius="1.69933" MinFreeRadius="2.85302" MinBRadius="3.60652" StartDistance="18.41107" EndDistance="20.89716" LocalMinimum="0">
+        <Residues>TRP 136 C,LEU 117 C,LEU 126 B</Residues>
+        <FlowIndices>10,15,16</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="1.33" Hydropathy="2.23" LogP="2.25" LogD="2.25" LogS="-2.02" Polarity="0.79" Mutability="44" />
+      </Layer>
+      <Layer MinRadius="1.68136" MinFreeRadius="3.07841" MinBRadius="3.58783" StartDistance="20.89716" EndDistance="21.45615" LocalMinimum="1">
+        <Residues>TRP 136 C,LEU 117 C,LEU 126 B,TYR 195 C</Residues>
+        <FlowIndices>10,15,16,17</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="1.28" Hydropathy="1.35" LogP="2.23" LogD="2.23" LogS="-1.88" Polarity="0.99" Mutability="45" />
+      </Layer>
+      <Layer MinRadius="1.70451" MinFreeRadius="3.15453" MinBRadius="3.59642" StartDistance="21.45615" EndDistance="23.62385" LocalMinimum="0">
+        <Residues>TRP 136 C,LEU 126 B,TYR 195 C</Residues>
+        <FlowIndices>10,16,17</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="1.32" Hydropathy="0.53" LogP="2.28" LogD="2.28" LogS="-1.90" Polarity="1.28" Mutability="43" />
+      </Layer>
+      <Layer MinRadius="1.97484" MinFreeRadius="3.22771" MinBRadius="3.88729" StartDistance="23.62385" EndDistance="24.00407" LocalMinimum="0">
+        <Residues>TRP 136 C,LEU 126 B,TYR 195 C,PHE 155 B</Residues>
+        <FlowIndices>10,16,17,18</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="1.33" Hydropathy="1.10" LogP="2.34" LogD="2.34" LogS="-1.88" Polarity="1.05" Mutability="45" />
+      </Layer>
+      <Layer MinRadius="1.79396" MinFreeRadius="2.94562" MinBRadius="3.69843" StartDistance="24.00407" EndDistance="24.90408" LocalMinimum="0">
+        <Residues>TRP 136 C,TYR 195 C,PHE 155 B</Residues>
+        <FlowIndices>10,17,18</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="1.39" Hydropathy="0.20" LogP="2.42" LogD="2.42" LogS="-1.91" Polarity="1.35" Mutability="42" />
+      </Layer>
+      <Layer MinRadius="1.19260" MinFreeRadius="2.27714" MinBRadius="3.11413" StartDistance="24.90408" EndDistance="27.82358" LocalMinimum="1">
+        <Residues>TYR 195 C,PHE 155 B,THR 110 C</Residues>
+        <FlowIndices>17,18,19</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.56" Hydropathy="0.27" LogP="1.50" LogD="1.50" LogS="-0.83" Polarity="1.21" Mutability="69" />
+      </Layer>
+      <Layer MinRadius="1.26390" MinFreeRadius="1.25134" MinBRadius="3.19008" StartDistance="27.82358" EndDistance="28.84754" LocalMinimum="0">
+        <Residues>TYR 195 C,PHE 155 B</Residues>
+        <FlowIndices>17,18</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="1.23" Hydropathy="0.75" LogP="2.34" LogD="2.34" LogS="-1.63" Polarity="0.98" Mutability="50" />
+      </Layer>
+      <Layer MinRadius="1.32408" MinFreeRadius="1.32497" MinBRadius="3.25024" StartDistance="28.84754" EndDistance="29.92749" LocalMinimum="0">
+        <Residues>TYR 195 C,PHE 155 B,ALA 199 C</Residues>
+        <FlowIndices>17,18,20</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.83" Hydropathy="1.10" LogP="1.92" LogD="1.92" LogS="-0.89" Polarity="0.65" Mutability="67" />
+      </Layer>
+      <Layer MinRadius="1.30622" MinFreeRadius="1.53198" MinBRadius="3.23507" StartDistance="29.92749" EndDistance="31.52940" LocalMinimum="0">
+        <Residues>TYR 195 C,ALA 199 C</Residues>
+        <FlowIndices>17,20</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.57" Hydropathy="0.25" LogP="1.63" LogD="1.63" LogS="-0.43" Polarity="0.81" Mutability="75" />
+      </Layer>
+      <Layer MinRadius="1.00549" MinFreeRadius="1.34612" MinBRadius="2.93403" StartDistance="31.52940" EndDistance="32.57648" LocalMinimum="0">
+        <Residues>TYR 195 C,ALA 199 C,LEU 151 B</Residues>
+        <FlowIndices>17,20,21</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.76" Hydropathy="1.43" LogP="1.78" LogD="1.78" LogS="-0.88" Polarity="0.58" Mutability="68" />
+      </Layer>
+      <Layer MinRadius="0.94603" MinFreeRadius="1.02606" MinBRadius="2.87389" StartDistance="32.57648" EndDistance="32.87688" Bottleneck="1" LocalMinimum="1">
+        <Residues>ALA 199 C,LEU 151 B,TYR 195 C Backbone</Residues>
+        <FlowIndices>20,21,22</FlowIndices>
+        <Properties Charge="0" Ionizable="0" NumPositives="0" NumNegatives="0" Hydrophobicity="0.12" Hydropathy="1.73" LogP="0.77" LogD="0.77" LogS="-0.13" Polarity="1.17" Mutability="77" />
+      </Layer>
+    </Layers>
+  </Tunnel>
+</Tunnels>
