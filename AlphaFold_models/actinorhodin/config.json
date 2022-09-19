@@ -24,7 +24,7 @@
     "random_seed": 0,
     "recompile_padding": 1.0,
     "recompile_all_models": false,
-    "commit": "d991ad9b2d14fbcaf660a6955a9a9de34b4f5eb8",
+    "commit": "22671664ac2c9dcb30086c3e654414d950ccb297",
     "is_training": false,
     "version": "1.3.0"
 }
